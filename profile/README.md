@@ -29,9 +29,10 @@ Utilizamos un gran número de tecnologías, las cuales dependen mucho de cada pr
 
 Explora algunos de nuestros proyectos públicos más destacados:
 
-1. [Diagnoodle](https://diagnoodle.com/) - El servicio pionero en la búsqueda de información y comparación farmaeútica.
+1. [Diagnoodle](https://diagnoodle.com/) - El servicio pionero en la búsqueda de información y comparación en productos diágnosticos.
 2. [eDatec Whatsapp Certificado](https://edatec.com.co/) - El primer servicio de mensajería certificada 4.0 en Colombia.
 3. [Parque Karstico](https://parquekarstico.com/) - Explora este fantástico laboratorio natual
+4. [App Club Futuros Millonarios](https://app.clubfuturosmillonarios.com/) - El aplicativo web y zona privada del club de emprendedores Club Futuros Millonarios.
 
 ## 📧 Contáctanos
 
@@ -73,9 +74,10 @@ We use a variety of technologies, which depend a lot on each project. However, w
 
 Explore some of our most prominent public projects:
 
-1. [Diagnoodle](https://diagnoodle.com/) - The pioneering service in pharmaceutical information search and comparison.
+1. [Diagnoodle](https://diagnoodle.com/) - The pioneering service in diagnostics information search and comparison.
 2. [eDatec Whatsapp Certificado](https://edatec.com.co/) - The first 4.0 certified messaging service in Colombia.
 3. [Parque Karstico](https://parquekarstico.com/) - Explore this fantastic natural laboratory.
+4. [App Club Futuros Millonarios](https://app.clubfuturosmillonarios.com/) - The web application and private area of the entrepreneurs' club "Club Futuros Millonarios".
 
 ## 📧 Contact Us
 
